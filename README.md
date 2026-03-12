@@ -36,10 +36,6 @@ cl_silencer_mode 1
 
 // BINDS
 bind "`" "toggleconsole"
-bind "w" "+forward"
-bind "a" "+left"
-bind "s" "+back"
-bind "d" "+right"
 bind "MWHEELUP" "+jump"
 bind "MWHEELDOWN" "+jump"
 bind "c" "+turnleft"
